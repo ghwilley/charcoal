@@ -12,9 +12,14 @@ this.i18n = {
         "en": "No matches were found.",
         "de": "Keine Übereinstimmungen gefunden."
     },
-    
-    
-    
+    "filter": {
+        "en": "Filter",
+        "de": "Filteren"
+    },
+    "filter-word": {
+        "en": "filter word",
+        "de": "filteren worden"
+    }
     "information": {
         "en": "Information",
         "de": "Information"
@@ -55,17 +60,17 @@ this.i18n = {
         ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et\
         dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.\
         Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-    },
-    "logout": {
-        "en": "Logout",
-        "de": "Abmeldung"
-    },
-    "enable": {
-        "en": "Enable",
-        "de": "Aktivieren"
-    },
-    "disconnect": {
-        "en": "Disconnect:",
-        "de": "Trennen:"
+    // },
+    // "logout": {
+    //     "en": "Logout",
+    //     "de": "Abmeldung"
+    // },
+    // "enable": {
+    //     "en": "Enable",
+    //     "de": "Aktivieren"
+    // },
+    // "disconnect": {
+    //     "en": "Disconnect:",
+    //     "de": "Trennen:"
     }
 };
