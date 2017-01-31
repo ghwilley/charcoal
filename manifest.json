@@ -18,7 +18,7 @@
   "options_page": "src/options_custom/index.html",
   "page_action": {
     "default_icon": "icons/icon.png",
-    "default_title": "page action demo",
+    "default_title": "Charcoal",
     "default_popup": "src/page_action/page_action.html"
   },
   "content_scripts": [
